@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 HELLO WORLD
-Message
-=======
-Hello World
-MESSAGE
->>>>>>> 2a027112b43a01a7a1cc9972ebcc92058b068ac8
+this is a message
